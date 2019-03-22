@@ -1,2 +1,2 @@
 # C-Cpp-Small-Project
-C/C++ Small Project
+All code are run in DevC++5.11 TDM-GCC 4.9.2 64-bit Release.
